@@ -1,6 +1,6 @@
-# Zoom Clone
+# Zoom 
 
-This project is a Zoom clone built using Next.js, TypeScript, Clerk, getstream, Shadcn, and Tailwind CSS. It provides a platform for hosting meetings with various features including authentication, meeting controls, scheduling, recording, and more. Follow the instructions below to set up the project locally on your machine.
+This project is a Zoom  built using Next.js, TypeScript, Clerk, getstream, Shadcn, and Tailwind CSS. It provides a platform for hosting meetings with various features including authentication, meeting controls, scheduling, recording, and more. Follow the instructions below to set up the project locally on your machine.
 
 Production URL : <a href="https://zoom-meeting-clone.vercel.app/" target="__blank">click here</a>
 
